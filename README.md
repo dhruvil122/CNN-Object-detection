@@ -9,7 +9,7 @@ So far, the maximum of around 60 percent of accuracy is achieved with a validati
 The training set images were reduces with 128x128 resolution. 
 
 ## models
-Most of the model has 3 convolution layers with both relu and maxpool layers. At first, The input will come into the convolution 1 layer. Relu and maxpool is applied. In most models, A dropout function is also used to prevent overfitting. Till now (at 60 percent validation accuracy), the model is only trained with 10 epochs with the latest update. 
+Most of the model has 3 convolution layers with both relu and maxpool layers. At first, The input will come into the convolution 1 layer. Relu and maxpool is applied. In most models, A dropout function is also used to prevent overfitting.  
 
 ## Files
 
